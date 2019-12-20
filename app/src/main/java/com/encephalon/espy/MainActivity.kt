@@ -2,6 +2,7 @@ package com.encephalon.espy
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.encephalon.espy.R
 
 class MainActivity : AppCompatActivity() {
 
